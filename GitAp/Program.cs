@@ -9,6 +9,7 @@ namespace GitAp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dupa");
             Console.ReadKey();
         }
     }
